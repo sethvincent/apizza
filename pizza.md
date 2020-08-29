@@ -1,3 +1,14 @@
+---
+example: hi
+name: test
+---
+
+# {{name}}
+
+Example file.
+
+{{example}}
+
 Pizza ipsum dolor amet bbq rib ut party sausage lorem deserunt ranch pepperoni lasagna aliqua voluptate meatball string cheese ut dolor. White pizza ex broccoli beef extra sauce magna nostrud melted cheese sausage ranch mollit. String cheese ipsum buffalo sauce large tempor in ham garlic parmesan id pork mozzarella anchovies chicken wing nostrud. Philly steak id marinara white pizza, pizza roll pesto fugiat minim pepperoni parmesan. Sed deserunt spinach sausage.
 
 Chicken wing pepperoni chicken wing cillum ad aliqua reprehenderit buffalo sauce ricotta non sausage bbq rib pan magna sunt. Lasagna bbq rib nulla pariatur officia in white garlic in anim string cheese id party thin crust NY style. Ranch aliqua platter buffalo sauce do garlic parmesan. Pork quis NY style pineapple party, exercitation marinara dolore chicken wing extra cheese.
